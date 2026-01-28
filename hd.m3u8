@@ -1,0 +1,43 @@
+#EXTM3U
+#EXTINF:0,FREE TVZONE
+https://rashaba.com/upload2/videos/2026/01/kbgmH8XWrTzhxHK/h264/720/kbgmH8XWrTzhxHK_720_h264.m3u8
+#EXTINF:0,AVA TV HD
+http://hlspackager.akamaized.net/live/DB/AVA_TV/HLS/AVA_TV.m3u8
+#EXTINF:0,NRT HD
+http://109.123.245.192/Nrt/index.m3u8
+#EXTINF:0,NRT 2
+http://109.123.245.192/Nrt2/index.m3u8
+#EXTINF:0,NRT 4
+https://live20.bozztv.com/giatv/giatv-nrt4stream/nrt4stream/chunks.m3u8
+#EXTINF:0,RUDAW HD
+https://svs.itworkscdn.net/rudawlive/rudawlive.smil/rudawpublish/rudawtv_source/chunks.m3u8
+#EXTINF:0,K24 FHD
+https://d1x82nydcxndze.cloudfront.net/live/index.m3u8
+#EXTINF:0,Channel 8 HD
+https://live.channel8.com/Channel8-Kurdish/index.m3u8
+#EXTINF:0,KURDSAT
+https://hlspackager.akamaized.net/live/DB/KURDSAT_HD/HLS/KURDSAT_HD.m3u8
+#EXTINF:0,KURDSAT NEWS
+https://hlspackager.akamaized.net/live/DB/KURDSAT_NEWS/HLS/KURDSAT_NEWS.m3u8
+#EXTINF:0,Soran Entertainment
+http://avrstream.com:1935/live/SoranEntertainment/playlist.m3u8
+#EXTINF:0,GALI KURDISTAN
+https://silicon.kurdlive.xyz/gk/gksat/chunklist_w139999815.m3u8
+#EXTINF:0,KURDISTAN TV
+https://5a3ed7a72ed4b.streamlock.net/live/SMIL:myStream.smil/chunklist_w1790905875_b1700000_sleng_t64MTA4MHA=.m3u8
+#EXTINF:0,KURDMAX سۆرانی
+https://6476e46b58f91.streamlock.net/liveTrans/KURDB3388/chunklist_w1862836536.m3u8
+#EXTINF:0,KURDMAX کرمانجی
+https://6476e46b58f91.streamlock.net/liveTrans/KURDS2211/chunklist_w600589281.m3u8
+#EXTINF:0,KURDMAX SHOW سۆرانی
+https://6476e46b58f91.streamlock.net/liveTrans/SHOWS123/playlist.m3u8
+#EXTINF:0,KURDMAX SHOW کرمانجی
+https://6476e46b58f91.streamlock.net/liveTrans/SHOWB234/playlist.m3u8
+#EXTINF:0 CUID="48116" tvg-name="RUDAW"  group-title="|KU|KURDISTAN  كردي",RUDAW
+https://svs.itworkscdn.net/rudawlive/rudawlive.smil/rudawpublish/rudawtv_720p/chunks.m3u8
+#EXTINF:0 CUID="48114" tvg-name="RONAHI_TV"  group-title="|KU|KURDISTAN  كردي",RONAHI_TV
+https://hlspackager.akamaized.net/live/DB/RONAHI_TV/HLS/RONAHI_TV.m3u8
+#EXTINF:0 CUID="48116" tvg-name="IMK"  group-title="|KU|KURDISTAN  كردي",IMK
+http://imkhd.ddns.net:1935/live/imkhd/playlist.m3u8
+#EXTINF:0 CUID="48117" tvg-name="Channel 8 UHD" tvg-logo="https://i.postimg.cc/Gd1prmrY/c8.png" group-title="|KU|KURDISTAN  كردي",Channel 8 UHD
+http://lukatv.net:8880/356498321176/6963f11042937.16369/550755
