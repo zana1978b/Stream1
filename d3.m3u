@@ -7,7 +7,7 @@ https://live20.bozztv.com:443/giatv/giatv-animalbox/animalbox/chunks.m3u8
 http://baskhd.ddns.net:40/live/Derin/chunklist_w534327794.m3u8
 #EXTINF:0 CUID="48085" tvg-name="KU : u-tv" tvg-logo="https://png.pngtree.com/png-clipart/20220511/original/pngtree-round-country-flag-kurdistan-png-image_7712285.png" group-title="|KU|KURDISTAN  كردي",KU : u-tv
 https://vsd74.okcdn.ru/hls/3527542770279.m3u8/sig/-DqOW43YThs/expires/1770120975349/srcIp/185.56.194.167/urls/185.226.53.66/clientType/0/srcAg/CHROME/mid/4728653618791/3527542770279_high/index.m3u8
-EXTINF:0 CUID="48085" tvg-name="KU : spacetoon" tvg-logo="https://png.pngtree.com/png-clipart/20220511/original/pngtree-round-country-flag-kurdistan-png-image_7712285.png" group-title="|KU|KURDISTAN  كردي",KU : spacetoon
+#EXTINF:0 CUID="48085" tvg-name="KU : spacetoon" tvg-logo="https://png.pngtree.com/png-clipart/20220511/original/pngtree-round-country-flag-kurdistan-png-image_7712285.png" group-title="|KU|KURDISTAN  كردي",KU : spacetoon
 https://bitmovin-spacetoon/d8382fb9ab4b2307058f12c7ea90db54/index.m3u8
 #EXTINF:0 CUID="48085" tvg-name="KU : sport 8" tvg-logo="https://png.pngtree.com/png-clipart/20220511/original/pngtree-round-country-flag-kurdistan-png-image_7712285.png" group-title="|KU|KURDISTAN  كردي",KU : sport 8
 https://stream.supertv.gg:3005/supertv/sport/stv5/ch5/ch5_1080.m3u8
@@ -8183,6 +8183,7 @@ http://199.115.193.116:8080/series/90337864331136/90337864331136/409150.mkv
 http://199.115.193.116:8080/series/90337864331136/90337864331136/409556.mkv
 #EXTINF:0 CUID="121339" tvg-name="|4K| MobLand S01 E03" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/abeH7n5pcuQcwYcTxG6DTZvXLP1.jpg" group-title="SERIES 4K MULTi",|4K| MobLand S01 E03
 http://199.115.193.116:8080/series/90337864331136/90337864331136/409557.mkv
+
 
 
 
